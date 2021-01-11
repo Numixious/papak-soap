@@ -234,23 +234,23 @@ body{
 }
 
 .color[color="blue"]{
-    background-color: #929738;
-    border-color: #929738;
+    background-color: #c29d4c;
+    border-color: #c29d4c;
 }
 
 .color[color="red"]{
-    background-color: #929738;
-    border-color: #929738;
+    background-color: #c29d4c;
+    border-color: #c29d4c;
 }
 
 .color[color="green"]{
-    background-color: #929738;
-    border-color: #929738;
+    background-color: #c29d4c;
+    border-color: #c29d4c;
 }
 
 .color[color="orange"]{
-    background-color: #929738;
-    border-color: #929738;
+    background-color: #c29d4c;
+    border-color: #c29d4c;
 }
 
 .color[color="black"]{
@@ -321,7 +321,7 @@ body{
 
 .buy{
     padding: .7rem 1rem;
-    background-color: #929738;
+    background-color: #eb6d21;
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
@@ -499,5 +499,5 @@ body{
 }
 
 .header ul li a:hover {
-    background-color: #929738;
+    background-color: #eb6d21;
 }
